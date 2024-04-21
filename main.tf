@@ -18,5 +18,7 @@ This is my house
 This is a new branch called new-fix
 
 
+This is my devops class
+
 My name is Drogba
 This is a new team called team-1
