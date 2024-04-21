@@ -12,3 +12,4 @@ resource "aws_instance" "example_instance" {
 }
 
 extra line 
+This is a new class
