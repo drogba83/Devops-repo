@@ -11,5 +11,6 @@ resource "aws_instance" "example_instance" {
   }
 }
 
-extra line 
 
+
+This is my house
